@@ -30,8 +30,7 @@ CNNs heavily rely on textures, whereas ViTs and
 CLIP are more shape/semantic oriented, leading
 to better robustness on distribution shifts. VAEs
 vs GANs trade off diversity and fidelity due to
-their training biases. Our results highlight that incorporating human-aligned inductive biases (ei-
-ther via architecture or training data) can improve
+their training biases. Our results highlight that incorporating human-aligned inductive biases (either via architecture or training data) can improve
 OOD generalization.
 
 
