@@ -34,4 +34,4 @@ their training biases. Our results highlight that incorporating human-aligned in
 OOD generalization.
 
 
-Thank you Dr. Tahir, Associate Professor at the EE Department at Lahore University of Management Sciences, Lahore, Pakistan, and the TAs for their guidance, namely Abdullah Ghani and Haseeb Tahir.
+Thank you Dr. Tahir, Associate Professor at the EE Department at Lahore University of Management Sciences, Lahore, Pakistan, and the TAs for their guidance, namely Abdullah Bin Faisal and Haseeb Tahir.
